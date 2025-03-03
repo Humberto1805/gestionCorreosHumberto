@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 
 public class GmailLabeler {
     private static final String HOST = "imap.gmail.com";
-    private static final String USER = "aprobarpsphumberto@gmail.com";
-    private static final String PASSWORD = "tycs edaq veib egme";
+    private static final String USER = "@gmail.com";
+    private static final String PASSWORD = "";
     private static final int NUM_MAX_MENSAJES = 7;
     private static final String LABEL_DONE = "Done";
     private static final String LABEL_WORK_IN_PROGRESS = "Work.in.Progress";
